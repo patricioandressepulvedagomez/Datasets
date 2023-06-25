@@ -1,0 +1,16 @@
+{ "datosCompletos":  [
+        {"alumno":"Patricio","nota":9.99,"ranking":1}
+        ,{"alumno":"Luisa","nota":6,"ranking":80}
+        ,{"alumno":"Felipe","nota":1,"ranking":320}
+        ,{"alumno":"Margarita","nota":4.1,"ranking":120}
+        ,{"alumno":"Domingo","nota":8.09,"ranking":30}
+        ,{"alumno":"María","nota":4,"ranking":150}
+        ,{"alumno":"Rodrigo","nota":7,"ranking":60}
+        ,{"alumno":"Joaquína","nota":2,"ranking":300}
+        ,{"alumno":"Pedro","nota":5,"ranking":100}
+        ,{"alumno":"Maite","nota":6.2,"ranking":150}
+        ,{"alumno":"Jonathan","nota":3,"ranking":250}
+        ,{"alumno":"Magdalena","nota":4,"ranking":150}
+           
+        ]
+}
