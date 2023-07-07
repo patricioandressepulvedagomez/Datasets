@@ -1,4 +1,4 @@
-{ "datosCompletos" : [
+[
         {"alumno":"Patricio","nota":10,"ranking":1},
         {"alumno":"Rodrigo","nota":6,"ranking":85},
         {"alumno":"Jaime","nota":1,"ranking":330},
@@ -8,4 +8,4 @@
         {"alumno":"Jesús","nota":7,"ranking":55},
         {"alumno":"Domenico","nota":2,"ranking":350},
         {"alumno":"María","nota":5,"ranking":100}
-      ]}
+      ]
