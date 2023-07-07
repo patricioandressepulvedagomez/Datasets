@@ -1,4 +1,4 @@
-{datosCompletos = [
+{datosCompletos : [
         {"alumno":"Patricio","nota":10,"ranking":1},
         {"alumno":"Rodrigo","nota":6,"ranking":85},
         {"alumno":"Jaime","nota":1,"ranking":330},
