@@ -6,6 +6,6 @@
         {"alumno":"Marta","nota":8.09,"ranking":40},
         {"alumno":"Aurora","nota":4,"ranking":162},
         {"alumno":"Jesús","nota":7,"ranking":55},
-        {"alumno":"Domenico","nota":3,"ranking":350},
-        {"alumno":"María","nota":5,"ranking":100}
+        {"alumno":"María","nota":5,"ranking":100},
+        {"alumno":"Dominic","nota":3,"ranking":350}
       ]
